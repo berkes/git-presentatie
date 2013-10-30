@@ -18,8 +18,8 @@ h1, h2 {
   font-family: 'Sorts Mill Goudy', serif;
 }
 #footer {
-  border-top: 1px solid #333;
-  background: black;
+  border-top: 1px solid #3DAAE0;
+  background: #000 url(logo.png) no-repeat right center;
 }
 em {
   background-color: #698B69;
