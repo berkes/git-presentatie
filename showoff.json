@@ -2,5 +2,8 @@
   "name": "Pragmatisch Git",
   "sections": [
     {"section": "voorwoord"}
+    {"section": "over_rcs_git"}
+    {"section": "workflows"}
+    {"section": "dagelijks"}
   ]
 }
