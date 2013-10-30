@@ -16,6 +16,7 @@
 # Pragmatisch?
 * Veel losse partijen en ontwikkelaars: Distributed
 * Consistent team: Central.
+* Veel branchen: Distributed
 
 !SLIDE bullets incremental
 # Hmmm. Waarom doet iedereen git?
