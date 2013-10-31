@@ -56,4 +56,5 @@
 * Download: https://github.com/berkes/git-presentatie/blob/develop/res/handout/handout.md
 * Online: http://berk.es/git-presentatie
 </small>
+
 ![link QR](./qr.png)
