@@ -1,2 +1,2 @@
-!SLIDE centered
+!SLIDE fullpage
 ![Questions](questions.gif)
