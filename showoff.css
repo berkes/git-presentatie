@@ -13,6 +13,10 @@
 .content.title {
   font-size:2em;
 }
+.content.fullpage img {
+  width: auto;
+  height: 676px;
+}
 h1, h2 {
   color: white;
   font-family: 'Sorts Mill Goudy', serif;
