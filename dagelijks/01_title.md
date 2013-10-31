@@ -1,3 +1,0 @@
-!SLIDE
-# Dagelijks gebruik
-
