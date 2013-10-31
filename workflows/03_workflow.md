@@ -15,8 +15,9 @@
 * `GOTO 20`
 * Mergen
 
-!SLIDE fullpage
+!SLIDE
 # Git-Flow
+!SLIDE fullpage
 ![git-flow](git-flow.png)
 
 !SLIDE bullets incremental
