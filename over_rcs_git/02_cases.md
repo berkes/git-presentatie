@@ -12,5 +12,6 @@
 ![Accountability](wtfs.jpg)
 
 !SLIDE fullpage
+# Make it so
 ![Make it So](make-it-so-o.gif)
 
