@@ -1,5 +1,5 @@
 !SLIDE bullets incremental
-# Workflow
+# Workflow Overview
 
 * Binnenhalen (nieuw, wijzigingen)
 * [programming](programming.gif)
@@ -7,12 +7,13 @@
 * Publiceren
 
 !SLIDE bullets incremental
-# Workflow
+# Workflow Branch
 
-* Binnenhalen (nieuw, wijzigingen)
+* Maken
 * [programming](programming.gif)
 * Vastleggen
-* Publiceren
+* `GOTO 20`
+* Mergen
 
-
-
+!SLIDE fullpage
+![git-flow](git-flow.png)
