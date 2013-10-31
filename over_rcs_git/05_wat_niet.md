@@ -4,4 +4,5 @@
 
 * Deploy
 * Backup
-* Discipline
+* Dependency-manager
+* Discipline-o-matic
