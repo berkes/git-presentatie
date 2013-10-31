@@ -2,7 +2,7 @@
 # Workflow Overview
 
 * Binnenhalen (nieuw, wijzigingen)
-* [programming](programming.gif)
+* ![programming](programming.gif)
 * Vastleggen
 * Publiceren
 
@@ -10,7 +10,7 @@
 # Workflow Branch
 
 * Maken
-* [programming](programming.gif)
+* Programming
 * Vastleggen
 * `GOTO 20`
 * Mergen
