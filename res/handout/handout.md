@@ -1,6 +1,7 @@
 ﻿![Savvii](./logo.png)
 
 # Terminologie
+<dl>
 <dt>Repository</dt>
     <dd>De repository is de plaats waar de bestanden en de informatie over de historie van de bestanden wordt bewaard.</dd>
 
@@ -24,10 +25,9 @@
 
 <dt>Merge </dt>
     <dd>Een merge of integration zorgt voor het toepassen van meerdere wijzigingen op hetzelfde bestand..
-
-        Dit kan gebeuren als één gebruiker, die zijn lokale working-copy bepaalde bestanden heeft aangepast, de wijzigingen aanbrengt in de repository, terwijl deze bestanden ook zijn aangepast door één of meer andere gebruikers.
-        Als er een branch is gemaakt en er een probleem wordt opgelost dat in beide versie bestaat, dan wordt de oplossing vaak in één branch aangebracht en wordt dit bestand weer gemerged met de andere branch.
-        Een merge kan ook optreden als twee (of meer) branches weer worden samengevoegd tot één branch.</dd>
+    Dit kan gebeuren als één gebruiker, die zijn lokale working-copy bepaalde bestanden heeft aangepast, de wijzigingen aanbrengt in de repository, terwijl deze bestanden ook zijn aangepast door één of meer andere gebruikers.
+    Als er een branch is gemaakt en er een probleem wordt opgelost dat in beide versie bestaat, dan wordt de oplossing vaak in één branch aangebracht en wordt dit bestand weer gemerged met de andere branch.
+    Een merge kan ook optreden als twee (of meer) branches weer worden samengevoegd tot één branch.</dd>
 
 <dt>Revision </dt>
     <dd>Een revision of version is één versie in een keten van aanpassingen.</dd>
@@ -49,5 +49,5 @@
 
 <dt>Baseline </dt>
     <dd>Over het algemeen is dit een set van bestanden met dezelfde tag, die gebruikt kan worden als basis voor verdere ontwikkelingen. </dd>
-
+</dl>
 [Bron Wikipedia NL](https://nl.wikipedia.org/wiki/Versiebeheersysteem), [Creative Commons - BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.nl)
