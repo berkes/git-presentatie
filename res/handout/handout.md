@@ -50,9 +50,9 @@
 <dt>Baseline </dt>
     <dd>Over het algemeen is dit een set van bestanden met dezelfde tag, die gebruikt kan worden als basis voor verdere ontwikkelingen. </dd>
 </dl>
-[Bron Wikipedia NL](https://nl.wikipedia.org/wiki/Versiebeheersysteem), [Creative Commons - BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.nl)
 
 <small>
+* [Bron Wikipedia NL](https://nl.wikipedia.org/wiki/Versiebeheersysteem), [Creative Commons - BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.nl)
 * Download: https://github.com/berkes/git-presentatie/blob/develop/res/handout/handout.md
 * Online: http://berk.es/git-presentatie
 </small>
