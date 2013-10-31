@@ -1,3 +1,7 @@
+!SLIDE
+
+#Cases
+
 !SLIDE fullpage
 ![Poor mans RCS](poormans_rcs.png)
 

@@ -1,11 +1,7 @@
 !SLIDE
 # Distributed versus Central
-
-!SLIDE bullets
-<blockquote>Werken in een *kopie* van het project</blockquote>
-
-!SLIDE bullets
-<blockquote>Werken in hetzelfde project.</blockquote>
+* Werken in een *kopie* van het project
+* Werken in *hetzelfde* project
 
 !SLIDE bullets incremental
 * **Distributed**: kopie, bewerk, samenvoegen
@@ -21,3 +17,4 @@
 !SLIDE bullets incremental
 # Hmmm. Waarom doet iedereen git?
 * Omdat iedereen het doet.
+* (En omdat het een mooie tool is)
