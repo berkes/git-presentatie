@@ -17,6 +17,9 @@
   width: auto;
   height: 676px;
 }
+.content.small {
+  font-size: 0.5em;
+}
 h1, h2 {
   color: white;
   font-family: 'Sorts Mill Goudy', serif;
