@@ -38,4 +38,4 @@
 !SLIDE bullets incremental
 # Backup
 
-* RCS bevat niet integratie.
+* RCS bevat geen integratie.

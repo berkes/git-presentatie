@@ -10,7 +10,7 @@
 * Staat op [berk.es/git-presentatie](http://berk.es/git-presentatie)
 * Github:
   [github.com/berkes/git-presentatie](http://github.com/berkes/git-presentatie)
-* Eind van de presentie (!) heeft een sheet met alle links
+* Eind van de presentatie (!) heeft een sheet met alle links
 * Freebie!
 
 !SLIDE bullets incremental
