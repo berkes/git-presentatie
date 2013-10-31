@@ -97,6 +97,17 @@
 </ul>
 </div>
 </div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="voorwoord/02_over/2">
+<h1>Over de presentatie</h1>
+
+<ul>
+<li>Staat op <a href="http://berk.es/git-presentatie">berk.es/git-presentatie</a></li>
+<li>Github:
+<a href="http://github.com/berkes/git-presentatie">github.com/berkes/git-presentatie</a></li>
+<li>Eind van de presentie (!) heeft een sheet met alle links</li>
+<li>Freebie!</li>
+</ul>
+</div>
+</div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="voorwoord/02_over/3">
 <h1>Over mij</h1>
 
 <ul>
@@ -106,7 +117,7 @@
 <li>doet <em>alles</em> in git.</li>
 </ul>
 </div>
-</div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="voorwoord/02_over/3">
+</div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="voorwoord/02_over/4">
 <h1>Over Savvii</h1>
 
 <ul>
@@ -115,7 +126,7 @@
 <li>ontwikkelen we in Ruby, Rails, PHP, Wordpress.</li>
 </ul>
 </div>
-</div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="voorwoord/02_over/4">
+</div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="voorwoord/02_over/5">
 <h1>En...</h1>
 
 <ul>
@@ -134,39 +145,50 @@
 </div><div class="slide" data-transition="none"><div class="content" ref="over_rcs_git/01_title">
 <h1>Over RCS en Git</h1>
 </div>
-</div><div class="slide" data-transition="none"><div class="content fullpage" ref="over_rcs_git/02_cases/1">
+</div><div class="slide" data-transition="none"><div class="content" ref="over_rcs_git/02_cases/1">
+<h1>Cases</h1>
+</div>
+</div><div class="slide" data-transition="none"><div class="content fullpage" ref="over_rcs_git/02_cases/2">
 <p><img src="./file/over_rcs_git/poormans_rcs.png" width="769" height="604" alt="Poor mans RCS"/>
 </p>
 </div>
-</div><div class="slide" data-transition="none"><div class="content fullpage" ref="over_rcs_git/02_cases/2">
+</div><div class="slide" data-transition="none"><div class="content fullpage" ref="over_rcs_git/02_cases/3">
 <p><img src="./file/over_rcs_git/bugs.jpg" width="482" height="321" alt="Regression"/>
 </p>
 </div>
-</div><div class="slide" data-transition="none"><div class="content fullpage" ref="over_rcs_git/02_cases/3">
+</div><div class="slide" data-transition="none"><div class="content fullpage" ref="over_rcs_git/02_cases/4">
 <p><img src="./file/over_rcs_git/wtfs.jpg" width="500" height="471" alt="Accountability"/>
 </p>
 </div>
-</div><div class="slide" data-transition="none"><div class="content fullpage" ref="over_rcs_git/02_cases/4">
+</div><div class="slide" data-transition="none"><div class="content fullpage" ref="over_rcs_git/02_cases/5">
+<h1>Make it so</h1>
+
 <p><img src="./file/over_rcs_git/make-it-so-o.gif" width="320" height="240" alt="Make it So"/>
 </p>
 </div>
-</div><div class="slide" data-transition="none"><div class="content" ref="over_rcs_git/03_d_v_c/1">
+</div><div class="slide" data-transition="none"><div class="content" ref="over_rcs_git/03_rcs_def">
+<h1>Definitie</h1>
+
+<blockquote>
+<p>Een VCS wordt het meest gebruikt bij de ontwikkeling van software, zodat <em>meerdere</em> mensen <em>wijzigingen</em> kunnen aanbrengen aan dezelfde bestanden. Wijzigingen worden meestal aangeduid met een code, het "<em>revisienummer</em>" of "revisieniveau". Elke wijziging wordt <em>gekoppeld aan een timestamp</em> en aan de <em>persoon</em> die de wijziging maakte. Wijzigingen kunnen <em>vergeleken</em> worden, <em>hersteld</em> en soms <em>samengevoegd</em>.</p>
+</blockquote>
+</div>
+</div><div class="slide" data-transition="none"><div class="content" ref="over_rcs_git/04_d_v_c/1">
 <h1>Distributed versus Central</h1>
+
+<ul>
+<li>Werken in een <em>kopie</em> van het project</li>
+<li>Werken in <em>hetzelfde</em> project</li>
+</ul>
 </div>
-</div><div class="slide" data-transition="none"><div class="content bullets" ref="over_rcs_git/03_d_v_c/2">
-<blockquote>Werken in een *kopie* van het project</blockquote>
-</div>
-</div><div class="slide" data-transition="none"><div class="content bullets" ref="over_rcs_git/03_d_v_c/3">
-<blockquote>Werken in hetzelfde project.</blockquote>
-</div>
-</div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="over_rcs_git/03_d_v_c/4">
+</div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="over_rcs_git/04_d_v_c/2">
 <ul>
 <li><strong>Distributed</strong>: kopie, bewerk, samenvoegen</li>
 <li><strong>Central</strong>: vergrendelen, bewerken, ontgrendelen</li>
 <li><strong>Central (meestal)</strong>: bewerken, proberen, overdoen</li>
 </ul>
 </div>
-</div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="over_rcs_git/03_d_v_c/5">
+</div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="over_rcs_git/04_d_v_c/3">
 <h1>Pragmatisch?</h1>
 
 <ul>
@@ -175,23 +197,120 @@
 <li>Veel branchen: Distributed</li>
 </ul>
 </div>
-</div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="over_rcs_git/03_d_v_c/6">
+</div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="over_rcs_git/04_d_v_c/4">
 <h1>Hmmm. Waarom doet iedereen git?</h1>
 
 <ul>
 <li>Omdat iedereen het doet.</li>
+<li>(En omdat het een mooie tool is)</li>
 </ul>
 </div>
-</div><div class="slide" data-transition="none"><div class="content" ref="dagelijks/01_title/1">
-<h1>Dagelijks gebruik</h1>
-</div>
-</div><div class="slide" data-transition="none"><div class="content" ref="dagelijks/01_title/2">
-<h1>Git basis</h1>
+</div><div class="slide" data-transition="none"><div class="content incremental bullet" ref="over_rcs_git/05_wat_niet">
+<h1>Wat niet?</h1>
 
 <ul>
-<li>de onderdelen</li>
-<li/>
+<li>Deploy</li>
+<li>Backup</li>
+<li>Dependency-manager</li>
+<li>Discipline-o-matic</li>
 </ul>
+</div>
+</div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="over_rcs_git/06_git/1">
+<h1>Over git</h1>
+
+<ul>
+<li>2005 Linus Torvalds' vervanging voor BitKeeper</li>
+<li>Snel. Heel. Erg. Snel.</li>
+<li>Distributed</li>
+</ul>
+</div>
+</div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="over_rcs_git/06_git/2">
+<h1>Git versus Github</h1>
+
+<ul>
+<li>Git is de tool</li>
+<li>Github is &#xE9;&#xE9;n van vele plekken waarheen je kunt pushen</li>
+</ul>
+</div>
+</div><div class="slide" data-transition="none"><div class="content fullpage" ref="over_rcs_git/99_questions">
+<p><img src="./file/over_rcs_git/questions.gif" width="499" height="289" alt="Questions"/>
+</p>
+</div>
+</div><div class="slide" data-transition="none"><div class="content" ref="workflows/02_demo">
+<h1><a href="http://ndpsoftware.com/git-cheatsheet.html">Demo</a></h1>
+</div>
+</div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="workflows/03_workflow/1">
+<h1>Workflow Overview</h1>
+
+<ul>
+<li>Binnenhalen (nieuw, wijzigingen)</li>
+<li><img src="./file/workflows/programming.gif" width="256" height="256" alt="programming"/>
+<li>Vastleggen</li>
+<li>Publiceren</li>
+</li>
+</ul>
+</div>
+</div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="workflows/03_workflow/2">
+<h1>Workflow Branch</h1>
+
+<ul>
+<li>Maken</li>
+<li>Programming</li>
+<li>Vastleggen</li>
+<li><code>GOTO 20</code></li>
+<li>Mergen</li>
+</ul>
+</div>
+</div><div class="slide" data-transition="none"><div class="content" ref="workflows/03_workflow/3">
+<h1>Git-Flow</h1>
+</div>
+</div><div class="slide" data-transition="none"><div class="content fullpage" ref="workflows/03_workflow/4">
+<p><img src="./file/workflows/git-flow.png" width="611" height="815" alt="git-flow"/>
+</p>
+</div>
+</div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="workflows/03_workflow/5">
+<h1>Deploy</h1>
+
+<ul>
+<li>Deployment <em>gebruikt</em> git.</li>
+<li>Capistrano</li>
+<li>Git-Deploy</li>
+</ul>
+</div>
+</div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="workflows/03_workflow/6">
+<h1>Dependency-management</h1>
+
+<ul>
+<li>Composer <em>gebruikt</em> Git(hub) gebruiken.</li>
+<li>Git submodules, <em>kan</em>, maar</li>
+<li><img src="./file/workflows/spaghetti.jpg" width="300" height="212" alt="spaghetti"/>
+<li>Opnemen <em>in</em> app, versus <em>buiten</em>.</li>
+</li>
+</ul>
+</div>
+</div><div class="slide" data-transition="none"><div class="content bullets incremental" ref="workflows/03_workflow/7">
+<h1>Backup</h1>
+
+<ul>
+<li>RCS bevat niet integratie.</li>
+</ul>
+</div>
+</div><div class="slide" data-transition="none"><div class="content centered" ref="workflows/99_questions">
+<p><img src="./file/workflows/questions.jpg" width="450" height="600" alt="Questions"/>
+</p>
+</div>
+</div><div class="slide" data-transition="none"><div class="content bullets small" ref="closing/01_links">
+<ul>
+<li>http://berk.es/git-presentatie</li>
+<li>http://nvie.com/posts/a-successful-git-branching-model/</li>
+<li>http://try.github.io</li>
+<li>http://pcottle.github.io/learnGitBranching</li>
+<li>Pragmatic Version Control Using Git - Travis Swicegood</li>
+<li>Version Control By Example - Eric Sink</li>
+</ul>
+
+<p><img src="./file/closing/qr.png" width="230" height="230" alt="QR"/>
+</p>
 </div>
 </div></div>
 <div id="pauseScreen">
