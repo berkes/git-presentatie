@@ -6,6 +6,12 @@
 * Developer bij Savvii
 
 !SLIDE bullets incremental
+# Over de presentatie #
+* Staat op berk.es/git-presentatie
+* Github: github.com/berkes/git-presentatie
+* Eind van de presentie (!) heeft een sheet met alle links
+
+!SLIDE bullets incremental
 # Over mij #
 
 * Begonnen met CVS,
