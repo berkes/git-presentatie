@@ -1,6 +1,3 @@
-git-presentatie
-===============
+# git-presentatie
 
-Dutch Presentation about Git, for First WordPress-meetup in Nijmegen.
-
-By and at [Savvii, Premium WordPress Hoster](http://savvii.nl).
+This repository has been moved to https://github.com/berkes/presentations/tree/main/git-presentatie
